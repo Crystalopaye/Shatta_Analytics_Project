@@ -40,7 +40,7 @@ SQL queries? Check them out here: [Sql_Data_Analysis](/SQL_files/sql_data_analys
 
 
 # 🧰Tools I Used
-I analyzed the data analyst job market using a streamlined tech stack:
+I analyzed the data using a streamlined tech stack:
 
 | Tool | Purpose |
 |------|---------|
