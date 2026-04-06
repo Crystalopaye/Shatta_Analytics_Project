@@ -602,7 +602,7 @@ This highlights that discovery, not quality, is the primary bottleneck.
 ![Need A Boost](/SQL_files/insights/images/12.jpg)
 *Donaught chart showing music that need promotion*
 
-### Timing & Seasonality
+### 📅Timing & Seasonality
 13. Which month are listeners the most active?
 ```sql
 SELECT
@@ -650,7 +650,7 @@ and total view accumulation.
 
 # What I learned
 
-### Technical Skills
+### 👨‍💻Technical Skills
 
 |Skill|What I Practiced|
 |-----|----------------|
@@ -661,7 +661,7 @@ and total view accumulation.
 |Query Optimization|Strategic indexing, EXPLAIN ANALYZE, partial indexes|
 |Data Integrity|UNIQUE constraints, foreign key actions (CASCADE, SET NULL)|
 
-### Real-World Lessons
+### 🌎Real-World Lessons
 1.Star schemas are powerful for analytics. Separating facts from dimensions made complex queries simple to write and fast to execute.
 
 2.Surrogate keys matter. The id column in platform_metrics_dim seemed redundant initially but proved essential for handling multiple rows per song.
