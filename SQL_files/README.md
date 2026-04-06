@@ -1,5 +1,4 @@
 # Introduction
----
 This project addresses a critical challenge faced by Ghanaian dancehall artist **Shatta Wale**: his music catalog is scattered across multiple streaming platforms with no centralized tracking system. Songs exist on some platforms but not others, making it impossible to understand his complete digital footprint.
 
 I built a relational database from scratch to consolidate **song metadata, project information, and platform performance metrics**. Using SQL, I transformed raw, fragmented data into actionable business intelligence that answers questions about **catalog completeness, platform strategy, fan engagement, and revenue optimization**.
@@ -8,7 +7,6 @@ Key Deliverable: A normalized, query-ready database that enables Shatta Wale to 
 
 
 # Background
----
 This SQL project analyzes the metadata to answer these key questions:
 
 1. Total song count – Complete discography size
@@ -42,7 +40,6 @@ SQL queries? Check them out here: [Sql_Data_Analysis](/SQL_files/sql_data_analys
 
 
 # 🧰Tools I Used
----
 I analyzed the data analyst job market using a streamlined tech stack:
 
 | Tool | Purpose |
@@ -56,7 +53,6 @@ I analyzed the data analyst job market using a streamlined tech stack:
 
 
 # 🏗 Database Architecture
----
 I designed a star schema optimized for analytical queries. This structure balances normalization (avoiding data duplication) with query performance.
 
 ## Entity Relationship Diagram
@@ -131,7 +127,6 @@ I implemented 15 strategic indexes to ensure sub-second query response times eve
 
 
 # 📊The Analysis
----
 I structured my analysis around 13 business questions organized into 5 categories. Below are representative queries and results.
 
 ### 🗃 Catalog Management
@@ -654,7 +649,7 @@ and total view accumulation.
 
 
 # What I learned
----
+
 ### Technical Skills
 
 |Skill|What I Practiced|
