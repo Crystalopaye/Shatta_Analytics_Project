@@ -8,7 +8,7 @@
 
 - [Dashboard Purpose](#Dashboard-Purpose)
 
-- [Technical Skills Showcased](#technical-skills-showcased)
+- [Technical Skills](#technical-skills)
 
 - [Data Sources](#Data-Sources)
 
@@ -63,7 +63,7 @@ A four-page interactive Power BI dashboard with synchronized filtering and drill
 |Production Team|	Which audio-only songs need videos, ranked by priority|
 
 
-# 👨‍💻Technical Skills Showcased
+# 👨‍💻Technical Skills
 ## Data Modeling & DAX Measures
 - Catalog Metrics – Total Songs, Total Views, Overall Engagement Rate calculated as (Likes + Comments) / Views × 100
 
