@@ -4,7 +4,7 @@
 
 ## Power BI Dashboard: Complete Catalog Intelligence
 ### 📌Table of Contents
-- Project Overview
+- [Project Overview](#Project-Overview)
 
 - Dashboard Purpose
 
