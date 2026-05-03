@@ -8,6 +8,8 @@
 
 - Dashboard Purpose
 
+- Technical Skills Showcased
+
 - Data Sources
 
 - Dashboard Navigation
@@ -26,9 +28,7 @@
 
 - Limitations & Future Improvements
 
-- Files in This Repository
-
-- Connect
+- Conclusion
 
 # Project Overview
 This Power BI dashboard transforms raw, fragmented music metadata into an interactive intelligence tool for Ghanaian dancehall artist Shatta Wale.
