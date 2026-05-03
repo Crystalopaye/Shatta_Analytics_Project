@@ -8,7 +8,7 @@
 
 - [Dashboard Purpose](#Dashboard-Purpose)
 
-- [Technical Skills Showcased](#Technical-Skills-Showcased)
+- [Technical Skills Showcased](#technical-skills-showcased)
 
 - [Data Sources](#Data-Sources)
 
