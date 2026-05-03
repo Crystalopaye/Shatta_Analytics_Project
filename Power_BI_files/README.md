@@ -6,29 +6,29 @@
 ### 📌Table of Contents
 - [Project Overview](#Project-Overview)
 
-- Dashboard Purpose
+- [Dashboard Purpose](#Dashboard-Purpose)
 
-- Technical Skills Showcased
+- [Technical Skills Showcased](#Technical-Skills-Showcased)
 
-- Data Sources
+- [Data Sources](#Data-Sources)
 
-- Dashboard Navigation
+- [Dashboard Navigation](#dashboard-navigation)
 
-- Page 1: Executive Overview (Landing Page)
+- [Page 1: Executive Overview (Landing Page)](#page-1-executive-overview-landing-page)
 
-- Page 2: Performance Rankings
+- [Page 2: Performance Rankings](#page-2-performance-rankings)
 
-- Page 3: Release Strategy
+- [Page 3: Release Strategy](#page-3-release-strategy)
 
-- Page 4: Actionable Insights (Production & Promotion)
+- [Page 4: Actionable Insights (Production & Promotion)](#page-4-actionable-insights-production--promotion)
 
-- Drill-Through: Song Detail Page
+- [Drill-Through: Song Detail Page](#drill-through-song-detail-page)
 
-- Technical Specifications
+- [Technical Specifications](#technical-specifications)
 
-- Limitations & Future Improvements
+- [Limitations & Future Improvements](#limitations--future-improvements)
 
-- Conclusion
+- [Conclusion](#conclusion)
 
 # Project Overview
 This Power BI dashboard transforms raw, fragmented music metadata into an interactive intelligence tool for Ghanaian dancehall artist Shatta Wale.
