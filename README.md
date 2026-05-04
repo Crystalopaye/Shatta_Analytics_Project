@@ -25,7 +25,7 @@
 
 This end-to-end data analytics project addresses a real-world business problem faced by Ghanaian dancehall artist **Shatta Wale**: his music catalog is scattered across multiple streaming platforms with no centralized tracking system.
 
-**The Problem:** Since beginning his professional career in 2002, Shatta Wale has released hundreds of songs across YouTube, Spotify, Apple Music, Audiomack, and other platforms. Songs exist on some platforms but not others, making it impossible to understand his complete digital footprint or make data-driven decisions about video production, release timing, or catalog management.
+**The Problem:** Since beginning his professional career in 2004, Shatta Wale has released hundreds of songs across YouTube, Spotify, Apple Music, Audiomack, and other platforms. Songs exist on some platforms but not others, making it impossible to understand his complete digital footprint or make data-driven decisions about video production, release timing, or catalog management.
 
 **The Solution:** A complete data pipeline that:
 
